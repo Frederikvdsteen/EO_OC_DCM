@@ -1,1 +1,2 @@
-This are helper functions for the permutation based t-tests
+This are (helper) functions for the permutation based t-tests
+The main fuction is wrapper_perm.m. (see code for more details)
