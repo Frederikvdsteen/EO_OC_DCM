@@ -28,5 +28,9 @@ Frederik Van de Steen<sup>1,2,3,8</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter 
 The function [prep_eeglab.m](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/prep_eeglab.m) was used for pre-processing the EEG data with EEGLAB (version 13.3.2b)
 and the function [semi_automated_ica_rejection_and_rereferencing.m](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/semi_automated_ica_rejection_and_rereferencing.m) was used for re-referencing and manually removing independent components.
 
+The function [spectral_analysis_with_10hz_topoplot.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/spectral_analysis_with_10hz_topoplot.m) performs the spectral analysis, permutation based t-testing and plotting of the results
+
 The folder [perm_ttest](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
 permutation based t-testing of spectral analysis of all channels
+
+
