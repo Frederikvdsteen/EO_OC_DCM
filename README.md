@@ -14,12 +14,12 @@ Frederik Van de Steen<sup>1,2,3*</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter D
 7 IRCCS San Camillo Hospital, Venice, Italy
 * Corresponding author: Frederik.van.de.steen@vub.be
 
- <font size=1>test</font siz> 
  
-The folder [perm_ttest](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
-permutation based t-testing of spectral analysis of all channels
+
 
 ## Pre-processing,MEEG objects and spectral analysis functions
 The function prep_eeglab.m was used for pre-processing the EEG data with EEGLAB (version 13.3.2b)
-and the fucntion semi_automated_ica_rejection_and_rereferencing.m was used for re-referencing and manually removing independen components
+and the function semi_automated_ica_rejection_and_rereferencing.m was used for re-referencing and manually removing independen components
 
+The folder [perm_ttest](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
+permutation based t-testing of spectral analysis of all channels
