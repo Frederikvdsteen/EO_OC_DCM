@@ -1,2 +1,2 @@
-This are (helper) functions for the permutation based t-tests
+Thse are functions for permutation based t-tests of matrices (N x X x nsubs) for e.g. time-frequency data collected from different subjects
 The main fuction is wrapper_perm.m. (see code for more details)
