@@ -1,7 +1,7 @@
 # EO_OC_DCM
 This code accompagnies the paper entitled:
 
-Dynamic causal modelling shows a prominent role of local inhibition in alpha power modulation in higher visual cortex
+**Dynamic causal modelling shows a prominent role of local inhibition in alpha power modulation in higher visual cortex**
 
 Frederik Van de Steen<sup>1,2,3*</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter Devos<sup>1</sup>, Nigel Colenbier<sup>1,6,7</sup>, Iege Bassez<sup>1</sup>, Karl Friston<sup>3</sup> and Daniele Marinazzo<sup>1</sup>
 
@@ -14,7 +14,7 @@ Frederik Van de Steen<sup>1,2,3*</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter D
 7 IRCCS San Camillo Hospital, Venice, Italy
 * Corresponding author: Frederik.van.de.steen@vub.be
 
-
+ <font size="1"> test </font siz> 
 The folder [perm_ttest](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
 permutation based t-testing of spectral analysis of all channels
 
