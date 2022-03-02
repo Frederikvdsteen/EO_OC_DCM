@@ -24,7 +24,7 @@ Frederik Van de Steen<sup>1,2,3,8</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter 
  
 
 
-## Pre-processing,MEEG objects and spectral analysis functions
+## Pre-processing and spectral analysis
 The function [prep_eeglab.m](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/prep_eeglab.m) was used for pre-processing the EEG data with EEGLAB (version 13.3.2b)
 and the function [semi_automated_ica_rejection_and_rereferencing.m](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/semi_automated_ica_rejection_and_rereferencing.m) was used for re-referencing and manually removing independent components.
 
