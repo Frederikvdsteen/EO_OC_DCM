@@ -1,4 +1,4 @@
-function [thres,pvals,tval, cl_th] = perm_pmat7(x,y,samp,type,dir,what,correction,alph,cl_p,prec_fun,verbose)
+function [thres,pvals,tval, cl_th] = perm_pmat(x,y,samp,type,dir,what,correction,alph,cl_p,prec_fun,verbose)
 
 %%%% x = data condition 1: connectivity matrix; 3de dimensions are the
 %%%%
