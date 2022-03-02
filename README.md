@@ -3,7 +3,7 @@ This code accompagnies the paper entitled:
 
 Dynamic causal modelling shows a prominent role of local inhibition in alpha power modulation in higher visual cortex
 
-Frederik Van de Steen1,2,3*, Dimitris Pinotsis4,5, Wouter Devos1, Nigel Colenbier1,6,7, Iege Bassez1, Karl Friston3 and Daniele Marinazzo1
+Frederik Van de Steen<sup>superscript1,2,3*</sup>, Dimitris Pinotsis4,5, Wouter Devos1, Nigel Colenbier1,6,7, Iege Bassez1, Karl Friston3 and Daniele Marinazzo1
 
 1 Department of Data Analysis, Ghent University, Ghent, Belgium
 2 Vrije Universiteit Brussel, Brussel, Belgium, AIMS laboratory. 
