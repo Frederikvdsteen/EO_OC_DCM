@@ -15,3 +15,5 @@ Frederik Van de Steen1,2,3*, Dimitris Pinotsis4,5, Wouter Devos1, Nigel Colenbie
 * Corresponding author: Frederik.van.de.steen@vub.be
 
 
+The folder [a link](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
+permutation based t-testing of spectral analysis of all channels
