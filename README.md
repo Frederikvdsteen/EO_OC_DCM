@@ -14,7 +14,8 @@ Frederik Van de Steen<sup>1,2,3*</sup>, Dimitris Pinotsis<sup>4,5</sup> Wouter D
 7 IRCCS San Camillo Hospital, Venice, Italy
 * Corresponding author: Frederik.van.de.steen@vub.be
 
- <font size="1"> test </font siz> 
+ <font size=1>test</font siz> 
+ 
 The folder [perm_ttest](https://github.com/Frederikvdsteen/EO_OC_DCM/tree/main/perm_ttest) contains the code for the 
 permutation based t-testing of spectral analysis of all channels
 
