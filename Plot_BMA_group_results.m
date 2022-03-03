@@ -38,6 +38,7 @@ print('/Users/fvdsteen/data/EEG_rest/figure_EO_vs_EC/results_extrinsic_connectio
 close all
 co = diag(BMA.Cp);
 x_labels = {}
+%%% reorder labels (see spm_fx_cmc for more details)
 j     = [5 2 3 4 6 7 1 8 9 10];
 id_conc = [];
 tel = 0;
