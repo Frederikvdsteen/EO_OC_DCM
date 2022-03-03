@@ -39,3 +39,6 @@ permutation based t-testing of spectral analysis of all channels
 
 The script [specify_DCM_models.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/specify_DCM_models.m) specifies the DCM models and [DCM_fit.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/DCM_fit.m) fits the data in a parallel pool. 
 
+The script [BMS_PEB.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/BMS_PEB.m) performs BMS of PEB and BMR and BMA of the winning model.
+
+The script [Plot_BMA_group_results.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/Plot_BMA_group_results.m) plots the results of the BMA.
