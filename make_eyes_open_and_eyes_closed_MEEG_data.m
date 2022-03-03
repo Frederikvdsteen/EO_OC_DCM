@@ -19,7 +19,7 @@ EEG2 = pop_loadset('filename',fold2(i).name,'filepath','/Users/fvdsteen/data/EEG
 [ALLEEG, EEG, CURRENTSET] = eeg_store( ALLEEG, EEG, 0 );
 
 %% load template MEEG object (made available at github)
-D = spm_eeg_load('/Users/fvdsteen/data/EEG_rest/spm_files/test5');
+D = spm_eeg_load('/Users/fvdsteen/data/EEG_rest/spm_files/template_meeg');
 %% make new MEEG object 
  D = clone(D,['/Users/fvdsteen/data/EEG_rest/spm_data/spm_meeg_' fold(i).name(1:4) '_EO_EC'],[64 size(EEG.data(:,end-1600:end),2) 2],0)
 %% put the EEG data in the MEEG object  
