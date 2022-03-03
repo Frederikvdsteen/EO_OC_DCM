@@ -9,7 +9,7 @@ parfor idcm =1:length(fold)
         tmp = load(fold(idcm).name,'DCM');
         DCM = tmp.DCM;
         DCM = spm_dcm_csd(DCM);
-        save_dcm([fold(idcm).name],DCM);
+        save_dcm([fold(idcm).name(1:end-4) '_results'],DCM);
   
     
 end
