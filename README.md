@@ -42,3 +42,9 @@ The script [specify_DCM_models.m](https://github.com/Frederikvdsteen/EO_OC_DCM/b
 The script [BMS_PEB.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/BMS_PEB.m) performs BMS of PEB and BMR and BMA of the winning model.
 
 The script [Plot_BMA_group_results.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/Plot_BMA_group_results.m) plots the results of the BMA.
+
+[sensitivity_analysis.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/sensitivity_analysis.m) performs the sensitivity analysis.
+
+Finally, we modified 3 functions of the SPM12 toolbox (version 7279) that was used for model fitting: [spm_dcm_csd](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/spm_dcm_csd.m), [spm_gen_Q.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/spm_gen_Q.m) and [spm_dcm_csd_data.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/spm_dcm_csd_data.m)
+
+
