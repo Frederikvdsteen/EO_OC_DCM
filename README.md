@@ -37,4 +37,5 @@ permutation based t-testing of spectral analysis of all channels
 
 ## DCM model specification, estimation PEB group analysis and sensitivity analysis
 
+The script [specify_DCM_models.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/specify_DCM_models.m) specifies the DCM models and [DCM_fit.m](https://github.com/Frederikvdsteen/EO_OC_DCM/blob/main/DCM_fit.m) fits the data in a parallel pool. 
 
